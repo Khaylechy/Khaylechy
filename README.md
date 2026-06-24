@@ -51,6 +51,6 @@ SQL case study answering 10 business questions about customer spending, visit pa
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelechi%20Madubuko-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kelechi-madubuko/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelechi%20Madubuko-0077B5?style=flat-square&logo=linkedin)](https://https://www.linkedin.com/in/kelechi-madubuko//)
 [![GitHub](https://img.shields.io/badge/GitHub-Khaylechy-181717?style=flat-square&logo=github)](https://github.com/Khaylechy)
 📧 kelechikelvin59@gmail.com
